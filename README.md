@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.njastad.no](https://www.njastad.no)
 
-- 📫 How to reach me: [mailto:halvor@njastad.no](**halvor@njastad.no**)
+- 📫 How to reach me: [**halvor@njastad.no**](mailto:halvor@njastad.no)
 
 - ⚡  **Apart from programming I try to stay active, and enjoy working out and bouldering. I also play a little electric bass, and have a *sligthly* too large record collection**
 
